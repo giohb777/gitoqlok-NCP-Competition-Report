@@ -1,0 +1,25 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "d5a5351f-d171-4983-a102-6adae18125c8",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "My new sheet (1)",
+      "description": ""
+    },
+    "rank": 2,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    }
+  },
+  "qChildren": []
+}

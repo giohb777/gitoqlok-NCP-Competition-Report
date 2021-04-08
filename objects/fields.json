@@ -1,0 +1,495 @@
+[
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Field",
+    "qCardinal": 38,
+    "qTags": [
+      "$key",
+      "$hidden",
+      "$system",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$FieldNo",
+    "qCardinal": 25,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Fields",
+    "qCardinal": 2,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Info",
+    "qCardinal": 1,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Rows",
+    "qCardinal": 2,
+    "qTags": [
+      "$hidden",
+      "$system",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qIsHidden": true,
+    "qIsSystem": true,
+    "qName": "$Table",
+    "qCardinal": 2,
+    "qTags": [
+      "$key",
+      "$hidden",
+      "$system",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": []
+  },
+  {
+    "qName": "% DSC",
+    "qCardinal": 13120,
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Account",
+    "qCardinal": 19,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Area",
+    "qCardinal": 8,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "BP Cluster",
+    "qCardinal": 47,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Brand",
+    "qCardinal": 397,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Category",
+    "qCardinal": 9,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Channel",
+    "qCardinal": 1,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Country",
+    "qCardinal": 1,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Dates",
+    "qCardinal": 810,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Day",
+    "qCardinal": 31,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Flyer Theme",
+    "qCardinal": 677,
+    "qTags": [],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Flyer Type",
+    "qCardinal": 3,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Master Calendar Date",
+    "qCardinal": 2557,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Master Calendar Date Num",
+    "qCardinal": 2557,
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Master_Calendar",
+      "Data"
+    ]
+  },
+  {
+    "qName": "Measure Group",
+    "qCardinal": 2,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Month",
+    "qCardinal": 12,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Month Day",
+    "qCardinal": 366,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Month ID",
+    "qCardinal": 84,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Month Num",
+    "qCardinal": 12,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Month Year",
+    "qCardinal": 84,
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Period",
+    "qCardinal": 6,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Product Line",
+    "qCardinal": 26,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Promo Price",
+    "qCardinal": 1323,
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Promo Type",
+    "qCardinal": 1,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Promotion %",
+    "qCardinal": 1006,
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Promotions",
+    "qCardinal": 378,
+    "qTags": [],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Quarter",
+    "qCardinal": 4,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Quarter ID",
+    "qCardinal": 28,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "SKU/Size Des",
+    "qCardinal": 6994,
+    "qTags": [],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Shelf Price",
+    "qCardinal": 2456,
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Sub Category",
+    "qCardinal": 328,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Sub Line",
+    "qCardinal": 65,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Supermarket Weeks",
+    "qCardinal": 53,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Type",
+    "qCardinal": 13,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Data"
+    ]
+  },
+  {
+    "qName": "Week",
+    "qCardinal": 53,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Week Day",
+    "qCardinal": 7,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Week Year",
+    "qCardinal": 365,
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  },
+  {
+    "qName": "Year",
+    "qCardinal": 7,
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Master_Calendar"
+    ]
+  }
+]

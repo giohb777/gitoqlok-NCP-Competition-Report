@@ -1,0 +1,19 @@
+{
+  "qTitle": "NCP Competition Report",
+  "qLastReloadTime": "2021-04-08T03:11:57.532Z",
+  "qMigrationHash": "98d482c3f964dccf69cbfb9a00e0c048ea6eb221",
+  "qSavedInProductVersion": "12.674.6",
+  "qThumbnail": {
+    "qUrl": "/appcontent/ca42f64e-de8c-4782-b880-e9915379030d/Promo1.jpg"
+  },
+  "createdDate": "2020-07-30T08:08:50.509Z",
+  "modifiedDate": "2021-04-08T06:59:17.054Z",
+  "published": true,
+  "publishTime": "2021-04-06T13:01:08.294Z",
+  "description": "",
+  "dynamicColor": "hsla(198,18%,43%,1)",
+  "stream": {
+    "id": "0032a51f-9839-472d-8bcb-edb6658c5a09",
+    "name": "NCP"
+  }
+}
